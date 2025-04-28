@@ -78,6 +78,17 @@ A: I chose not to align them to save time.
 
 - C192 in the schematics has a wrong value.<br>
 Wrong: 10 nF<br>
-Correct: 20 pF<br>
+Correct: 22 pF<br>
+See also [Issue #4](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/issues/4).
 
+- C77 is believed to have a wrong value (needs to be verified). [Issue #3](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/issues/3)<br>
+Wrong: 120 uF<br>
+Correct: 100 nF<br>
 
+- A more likely make and model of U10 could be [DSA221SDN/DSB221SDN](https://www.kds.info/product/dsb221sdn-c/?mlang=en). [Issue #2](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/issues/2)<br>
+
+- C76 is believed to have a wrong value (needs to be verified). [Comment on Issue #3](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/issues/3#issuecomment-2448954222)<br>
+Wrong: 120 uF<br>
+Correct: 100 nF<br>
+
+- L13 might have an incorrect value in the schematics (needs to be verified). [Comment on Issue #5](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9/issues/5#issue-2866589727)<br>
